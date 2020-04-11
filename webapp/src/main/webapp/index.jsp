@@ -1,5 +1,2 @@
 <h1> Hello Karrrnashi, Welcome to Simple DevOps Project !!</h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
-<h3> I am glad to be here </h3>
-<h4> No shit? </h4>
+<h2> Deploying on a kubernetes in the next video session. </h2>
